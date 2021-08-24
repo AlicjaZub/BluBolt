@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ef41f3e-ee2e-40dc-ad1a-522799f10894" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/.idea/moduleOneBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/Brief-Product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/brief.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/displayed-in-grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleOneBasics/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/brief.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/components/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/gql/getCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/gql/getProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleThreeReact/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleTwoJSAndPrimatives/brief.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleTwoJSAndPrimatives/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleTwoJSAndPrimatives/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleTwoJSAndPrimatives/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleTwoJSAndPrimatives/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/moduleTwoJSAndPrimatives/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CT2020-master/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xAl1soc6ExHJgfzX6RAk3rOwPX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ef41f3e-ee2e-40dc-ad1a-522799f10894" name="Changes" comment="" />
+      <created>1629805561664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629805561664</updated>
+      <workItem from="1629805563530" duration="1294000" />
+      <workItem from="1629812073383" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
